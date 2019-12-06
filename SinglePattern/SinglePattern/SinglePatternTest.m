@@ -1,0 +1,5 @@
+@interface Singleton : NSObject
+@end
+
+
+
